@@ -1,5 +1,5 @@
 [versions]
-sqldelight = "2.0.0-alpha05"
+sqldelight = "2.0.1"
 
 [libraries]
 sqldelight-androidDriver = { module = "app.cash.sqldelight:android-driver", version.ref = "sqldelight" }
